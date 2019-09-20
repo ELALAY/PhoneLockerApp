@@ -1,0 +1,4 @@
+#Mon Sep 16 21:47:14 WEST 2019
+base.0=C\:\\Users\\hp\\Desktop\\Projects\\PhoneLockerApp\\LockScreenDevice\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
